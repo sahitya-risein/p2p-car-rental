@@ -1,6 +1,4 @@
-Here’s a clean, **hackathon-ready README.md** for your **P2P Car Rental on Soroban (Stellar)** project 👇
 
----
 
 # 🚗 P2P Car Rental DApp on Soroban
 
